@@ -37,6 +37,7 @@
     "react": "^16.0.0",
     "react-tunnels": "^1.0.2",
     "recompose": "^0.26.0",
+    "recursive-readdir-filter": "^0.0.3",
     "respondable": "^1.0.1",
     "styled-components": "^2.2.3"
   },
