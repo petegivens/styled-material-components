@@ -114,12 +114,6 @@ export const Tabs = styled(TabsComponent) `
   position: relative;
   width: 100%;
 
-  & [data-smc~='Icon'] {
-    background-color: transparent;
-    color: inherit;
-    fill: currentColor;
-  }
-
   & [data-smc~='Tab'] {
     flex: ${props => (props.fixed ? 1 : 'none')};
   }
